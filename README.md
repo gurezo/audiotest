@@ -1,2 +1,2 @@
 # audiotest
-STBシュミレーターでの音声再生用
+Firefox OS STBシュミレーターでの音声再生用
